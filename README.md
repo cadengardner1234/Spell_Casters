@@ -1,6 +1,8 @@
 Spell-Casters User Manual
 
 **THIS GAME WAS CREATED BY CADEN GARDNER, ZACH WOOD, MADDY TEER, TIMOTHY ACKLIN, AND DREW BALDUCCI AS A FINAL PROJECT FOR CPE 353 AT UAH**
+**THE ORIGINAL REPOSITORY HAS BEEN DELETED, SO I FOUND A BACKUP THAT IS THE VERSION I UPLOADED TO GITLAB. THIS VERSION MAY NOT FUNCTION AS INTENDED AND MAY HAVE
+BUGS THAT WERE PATCHED IN THE LATER, NOW DELETED VERSION**
 
 Instructions for Compilation:
 	The user must have all files within the two provided project groupings: server and client. Each project file must be compiled and run separately, however both are required to support multiplayer functionality. 
